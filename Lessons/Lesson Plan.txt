@@ -1,0 +1,11 @@
+1) What is the BCC and why should you care?
+
+2) Understanding the format and how the BCC is run.
+
+3) Introduce the different techniques for problem solving (drawing diagrams, process of 
+   elimination, trial and error, iterating over the domain of solutions, finding patterns)
+
+4) Look at some riddles and break them down. Keep in mind the different techniques stated above
+	- https://parade.com/970343/parade/logic-puzzles/
+
+5) Talk about how to complete and submit homework
