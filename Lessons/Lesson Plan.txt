@@ -8,15 +8,12 @@
 	  The number tells us the steps we must take. We can also move one back
 
 	- A is taller than B, C is shorter than A, D is taller than B but shorter then C. Which statement is true
-		1)  B is the tallest 2) A is the shortest 3) C is the second tallest 4) D is the shortest
+		1)  B is the tallest 2) A is the shortest 3) C is the second tallest (this is correct) 4) D is the shortest
 
 	- What value of x will solve the equation --> x^3 / 2 + 5 = 18.5
 
-	- x / 0 = ???
+	- 1 / 0 = ???
 
 	- How many binary strings are there of length 10?
 
-4) Look at some riddles and break them down. Keep in mind the different techniques stated above
-	- https://parade.com/970343/parade/logic-puzzles/
-
-5) Talk about how to complete and submit homework
+4) Talk about how to complete and submit homework
