@@ -3,7 +3,7 @@
 2) Read and answer the following problem
 
 Bob is 3 times older than Ted. Zed is half the age of Ted. Kelly is 5 years older than bob.
-Kelly is also  8 times older than Ted.
+Kelly is also  8 times older than Ted. How old is each person?
 
 Note: People are allowed to have ages that involves decimals. For exmaple, someone could
 be 0.5 years old. Someone else may be 3.6 years old. 

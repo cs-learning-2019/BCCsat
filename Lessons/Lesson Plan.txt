@@ -3,7 +3,18 @@
 2) Understanding the format and how the BCC is run.
 
 3) Introduce the different techniques for problem solving (drawing diagrams, process of 
-   elimination, trial and error, iterating over the domain of solutions, finding patterns)
+   elimination, trial and error, looking at a simplier problem first, finding patterns)
+	- Given a list of positive numbers can we travel exactly to the end. 
+	  The number tells us the steps we must take. We can also move one back
+
+	- A is taller than B, C is shorter than A, D is taller than B but shorter then C. Which statement is true
+		1)  B is the tallest 2) A is the shortest 3) C is the second tallest 4) D is the shortest
+
+	- What value of x will solve the equation --> x^3 / 2 + 5 = 18.5
+
+	- x / 0 = ???
+
+	- How many binary strings are there of length 10?
 
 4) Look at some riddles and break them down. Keep in mind the different techniques stated above
 	- https://parade.com/970343/parade/logic-puzzles/
