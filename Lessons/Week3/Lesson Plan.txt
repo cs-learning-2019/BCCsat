@@ -1,0 +1,8 @@
+1) Lets take a look at algebraic modeling, in more detail
+- Variables, the four main operators and inequalities
+- We do this to be concise and to save time (ie/ instead of drawing shapes you can label them with letters)
+
+- 4 rectangles is heavier than one circle, but 3 is lighter than 2 circles. 2 rectangles is the same weight as one triangle
+  Is 2 triangles heavier, lighter or equal to one circle?
+  Is a triangle + a rectangle heavier, lighter or equal to 2 circles?
+  Is a triangle + 6 rectangles heavier, lighter or equal to 2 circles?

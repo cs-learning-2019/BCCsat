@@ -8,7 +8,7 @@
 - Jack is looking at Anne. Anne is looking at George. Jack is married, George is not, and we don’t know if Anne is married. Is a married person looking at an unmarried person?
 
 - A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are out and he is completely in the dark. 
-  How many socks must he take out to make 100 percent certain he has at least one pair of black socks?
+  How many socks must he take out to make 100 percent certain he has at least one pair of black socks? We want to pull out the least amoiunt of socks.
 
 - You have 4 bags of apples. The apples in the first three bags each weigh 1kg. The apples in the fourth bag weigh 1.1kg. You lose track of the order of the bags.
   You are lucky and have a scale that you can use only once. This means you can only go to the scale once to make only one measurement. How can you find out which bag
