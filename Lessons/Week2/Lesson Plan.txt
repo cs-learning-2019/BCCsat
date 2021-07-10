@@ -1,0 +1,24 @@
+1) Take up the homework
+
+2) Lets answer the following puzzles
+- There are two ducks in front of a duck, two ducks behind a duck and a duck in the middle. How many ducks are there?
+
+- Five people were eating apples, A finished before B, but behind C. D finished before E, but behind B. What was the finishing order?
+
+- Jack is looking at Anne. Anne is looking at George. Jack is married, George is not, and we don’t know if Anne is married. Is a married person looking at an unmarried person?
+
+- A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are out and he is completely in the dark. 
+  How many socks must he take out to make 100 percent certain he has at least one pair of black socks?
+
+- You have 4 bags of apples. The apples in the first three bags each weigh 1kg. The apples in the fourth bag weigh 1.1kg. You lose track of the order of the bags.
+  You are lucky and have a scale that you can use only once. This means you can only go to the scale once to make only one measurement. How can you find out which bag
+  Has the apples which weigh 1.1kg each?
+
+3) Lets take a look at algebraic modeling, in more detail
+- Variables, the four main operators and inequalities
+- We do this to be concise and to save time (ie/ instead of drawing shapes you can label them with letters)
+
+- 4 rectangles is heavier than one circle, but 3 is lighter than 2 circles. 2 rectangles is the same weight as one triangle
+  Is 2 triangles heavier, lighter or equal to one circle?
+  Is a triangle + a rectangle heavier, lighter or equal to 2 circles?
+  Is a triangle + 6 rectangles heavier, lighter or equal to 2 circles?
