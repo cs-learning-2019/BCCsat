@@ -1,6 +1,6 @@
 1) Model each of the following sentences
 
-I will do the first and seconds one for you! :)
+I will do the first and second and third one for you! :)
 
 - Molly has 6 more apples then John.
 Answer --> M = J + 6
@@ -9,6 +9,7 @@ Answer --> M = J + 6
 Answer --> 100B < 2T
 
 - Sally is twice as heavy as Tony.
+Answer ---> S = 2T
 
 - 10 apples plus 2 books is heavier than 3 balls.
 
