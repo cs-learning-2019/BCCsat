@@ -6,3 +6,5 @@
   Is 2 triangles heavier, lighter or equal to one circle?
   Is a triangle + a rectangle heavier, lighter or equal to 2 circles?
   Is a triangle + 6 rectangles heavier, lighter or equal to 2 circles?
+
+2) Lets look at some past BCC contest questions!
