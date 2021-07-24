@@ -24,8 +24,8 @@ Answer ---> S = 2T
 
 Tony eats twice the amount Sally eats. Sally eats more then John. Bob eats the same amount as Sally. Kelly and John together can eat more than Tony.
 
-Is the amount that Kelly and John can eat together larger, smaller or equal to twice the amount that Bob can eat?
+Is the amount that Kelly and John can eat together larger, smaller or equal to twice the amount that Bob can eat? (Greater)
 
-Does Bob eat more, less or the same amount as John?
+Does Bob eat more, less or the same amount as John? (Greater)
 
-Is the amount that Kelly and Sally can eat together larger, smaller or equal to the amount that Tony can eat?
+Is the amount that Kelly and Sally can eat together larger, smaller or equal to the amount that Tony can eat? (Greater)
